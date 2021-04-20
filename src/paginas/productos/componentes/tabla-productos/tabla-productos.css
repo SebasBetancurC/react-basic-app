@@ -1,0 +1,14 @@
+.tabla-productos-contenedor{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 375px;
+    border: 1px solid green;  
+    margin-top: 10px; 
+}
+
+.texto-tabla-productos{
+    text-align: left;
+    margin-left: 10%;
+    font-weight: bold;
+}
+

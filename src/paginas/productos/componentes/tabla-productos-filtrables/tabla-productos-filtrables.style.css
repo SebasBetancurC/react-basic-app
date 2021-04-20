@@ -1,0 +1,7 @@
+.tabla-productos-filtrables-contenedor {
+
+    width: 25%;
+    margin: 0 auto;
+    min-height: 485px;
+    border: 1px solid orange;
+}

@@ -1,0 +1,12 @@
+.nexus-siete-contenedor{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 30px;
+    border: 1px solid rgb(255, 6, 6);  
+    margin-top: 10px; 
+}
+
+.nexus-nombre{
+    text-align: left;
+    margin-left: 10%;
+}

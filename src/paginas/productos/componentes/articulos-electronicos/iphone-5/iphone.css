@@ -1,0 +1,19 @@
+.iphone-cinco-contenedor{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 30px;
+    border: 1px solid rgb(255, 6, 6);  
+    margin-top: 10px; 
+}
+
+.iphone-nombre{
+    text-align: left;
+    margin-left: 10%;
+    color: red;
+    font-weight: bold;
+}
+
+text{
+    color: black;
+    font-weight: normal;
+}
